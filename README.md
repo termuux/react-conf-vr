@@ -1,5 +1,5 @@
-# Simple React VR
+# Virtual React
 
-This is a simple VR web application which shows panoramical images of react conf held in 2017.
+A web application demonstrating panoramical images of React Conf held in 2017.
 
 
